@@ -12,12 +12,17 @@
 
 ### 👨‍💻 About Me
 
-📍 Based in **Khargone, Madhya Pradesh, India**  
-💻 **Full-Stack JavaScript Developer** with a strong focus on the **MERN stack** — MongoDB · Express.js · React.js · Node.js  
-🎯 Deep understanding of **Object-Oriented Programming (OOP)**, **Database Management Systems (DBMS)** 
-🎨 Passionate about building **scalable web applications**, crafting **design systems**, and developing **reusable UI component libraries** for seamless user experiences.  
-🚀 Experienced in **frontend architecture, product design, and UI engineering**, with an eye for both **performance and aesthetics**.  
-⚡ Love mentoring aspiring developers and sharing knowledge about **modern JavaScript ecosystems**.
+📍 Based in Khargone, Madhya Pradesh, India
+
+💻 Full-Stack JavaScript Developer with knowledge of the MERN Stack (MongoDB, Express.js, React.js, Node.js).
+
+🎯 Strong understanding of JavaScript, Object-Oriented Programming (OOP), and Database Management Systems (DBMS).
+
+🎨 Passionate about building responsive and user-friendly web applications using React.js and modern web technologies.
+
+🚀 Built projects using React.js, JavaScript, HTML, CSS, Tailwind CSS, and REST APIs.
+
+⚡ Continuously learning modern JavaScript technologies and improving my development skills.
 
 ---
 
