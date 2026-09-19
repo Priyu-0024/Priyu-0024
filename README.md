@@ -50,7 +50,7 @@
 <li>🔵 **Worked in a team environment to deliver scalable and maintable code** </li>
 </ul> -->
 
-### 💼 Internship Experience
+
 
 <ul>
 
