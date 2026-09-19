@@ -166,7 +166,7 @@ A modern **EdTech platform** built with the **MERN stack** that provides a seaml
 ---
 
 #### 💼 ApplySeeker (Job Plateform)
-[![Repo](https://img.shields.io/badge/GitHub-ApplySeekerFrontend-181717?style=for-the-badge&logo=github)](https://github.com/jagmohan123/ApplySeekerFrontend)
+[![Repo](https://img.shields.io/badge/GitHub-ApplySeekerFrontend-181717?style=for-the-badge&logo=github)](https://github.com/Priyu-0024/Priyu-0024/ApplySeekerFrontend)
 [![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://applyseeker.netlify.app/)
 
 A **Job Platform** designed to help job seekers find and apply to opportunities easily while enabling recruiters to post and manage job listings.
