@@ -43,11 +43,30 @@
 ---
 
 ### 💼 Intership Experience
-<ul>
+<!-- <ul>
 <li>🔵 **Mern Stack** @ Dr. Reddy’s Foundation</li>  
 <li>🔵 **Duration-**  [30 oct 2025- 30 jun 2025}</li>
 <li>🔵 **Built and deploy dynamic web projects using the Mern Stack** </li>
 <li>🔵 **Worked in a team environment to deliver scalable and maintable code** </li>
+</ul> -->
+
+### 💼 Internship Experience
+
+<ul>
+
+<li>🔵 **MERN Stack Intern** @ Grow Tech</li>
+<li>🔵 **Duration-** 3 Months</li>
+<li>🔵 **Built and developed dynamic web applications using the MERN Stack**</li>
+<li>🔵 **Worked with MongoDB, Express.js, React.js and Node.js**</li>
+<li>🔵 **Developed REST APIs and practiced CRUD operations**</li>
+
+<li>🔵 **React.js Developer Intern** @ VKTechno Solutions Pvt Ltd</li>
+<li>🔵 **Duration-** 4 Months</li>
+<li>🔵 **Developed responsive web interfaces using React.js, JavaScript, HTML, CSS and Tailwind CSS**</li>
+<li>🔵 **Created reusable React components and implemented React Router**</li>
+<li>🔵 **Integrated REST APIs and worked with dynamic data**</li>
+<li>🔵 **Implemented CRUD operations, authentication, pagination and responsive UI**</li>
+
 </ul>
 ---
 
