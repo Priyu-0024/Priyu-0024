@@ -59,7 +59,7 @@
 <li>🔵 **Built and developed dynamic web applications using the MERN Stack**</li>
 <li>🔵 **Worked with MongoDB, Express.js, React.js and Node.js**</li>
 <li>🔵 **Developed REST APIs and practiced CRUD operations**</li>
-
+<br>
 <li>🔵 **React.js Developer Intern** @ VKTechno Solutions Pvt Ltd</li>
 <li>🔵 **Duration-** 4 Months</li>
 <li>🔵 **Developed responsive web interfaces using React.js, JavaScript, HTML, CSS and Tailwind CSS**</li>
