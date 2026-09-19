@@ -131,7 +131,7 @@
 ---
 
 #### 🛒 Shopping24 (E-Commerce Platform)
-[![Repo](https://img.shields.io/badge/GitHub-Shopping24-181717?style=for-the-badge&logo=github)](https://github.com/jagmohan123/EcomerceFrontend)
+[![Repo](https://img.shields.io/badge/GitHub-Shopping24-181717?style=for-the-badge&logo=github)](https://github.com/Priyu-0024/Priyu-0024/EcomerceFrontend)
 [![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://shoping24k.netlify.app/)
 
 A complete **e-commerce web application** where users can browse products, add to cart, and place orders.
